@@ -14,7 +14,6 @@ To view all tasks/bugs, please refer to the [Issues page](https://github.com/sin
 For kanban style work item tracking, please check the [project page](https://github.com/sinag/SWE574/projects/2)
 
 [Team Info & Manifesto](https://github.com/sinag/SWE574/wiki/Team-&-Manifesto)
-[!https://img.shields.io/github/issues/sinag/swe574]
 ## Installation
 
 < Installation info placeholder >
