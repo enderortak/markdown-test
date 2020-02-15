@@ -1,3 +1,4 @@
+![coverage](https://img.shields.io/badge/coverage----blue) ![contributers](https://img.shields.io/badge/contributors-3-lightgrey) ![issues](https://img.shields.io/badge/issues-5%20open-yellowgreen)
 # < Project Name >
 ```
                             Boğaziçi University Software Engineering Graduate Program
@@ -13,7 +14,7 @@ To view all tasks/bugs, please refer to the [Issues page](https://github.com/sin
 For kanban style work item tracking, please check the [project page](https://github.com/sinag/SWE574/projects/2)
 
 [Team Info & Manifesto](https://github.com/sinag/SWE574/wiki/Team-&-Manifesto)
-
+[!https://img.shields.io/github/issues/sinag/swe574]
 ## Installation
 
 < Installation info placeholder >
